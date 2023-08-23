@@ -73,5 +73,4 @@ Identifying the countries with the highest forest areas in each region highlight
 While this project provides a foundation for understanding deforestation and income group dynamics, future work could include:
 - Integration of additional datasets: Consider incorporating datasets related to climate change, economic factors, and policy measures to build a more comprehensive model.
 - Time series analysis: Explore deforestation trends over time to identify patterns, changes, and potential causal factors.
-- Predictive modeling: Utilize machine learning algorithms to predict future deforestation rates based on historical data and influencing factors.
 - This project serves as a stepping stone for further research and actions to mitigate deforestation and promote sustainable land use practices worldwide.
