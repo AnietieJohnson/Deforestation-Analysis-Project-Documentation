@@ -22,5 +22,6 @@ To answer this question effectively, I did a breakdown;
 -:- Note that this is a case of having a query with  double sub query, I wrote the subquery first following the steps I layed out above
 
 Query to retrieve countries with forest area greater than the average forest area of the "High Income" group:
+![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/soluton%20to%20task%203.png)
 
 
