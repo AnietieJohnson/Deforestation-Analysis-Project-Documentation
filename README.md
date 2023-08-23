@@ -15,7 +15,7 @@ Query to identify countries with total area between 75,000 and 150,000 and their
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/solution%20to%20task%202.png)
 ### Task 3: Countries with Forest Area Greater Than Average High-Income Group
 To answer this question effectively, I did a breakdown;
-- Get "high income"  in income groupclass
+- Get "high income"  in income group
 - Get average of the above
 - Get name of countries that have a forest area greater than the average above.
 
