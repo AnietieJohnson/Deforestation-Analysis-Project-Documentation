@@ -1,6 +1,6 @@
 # Global Deforestation Analysis
 ## Introduction
-This documentation outlines the steps and queries used to analyze deforestation data and country income groups using SQL. The project involves tasks such as determining the number of countries involved in deforestation, categorizing countries by income groups, comparing forest areas among different income categories, and identifying countries with the highest forest areas in each region.
+This documentation outlines the steps and queries used to analyze deforestation dataset using SQL. The project involves tasks such as determining the number of countries involved in deforestation, categorizing countries by income groups, comparing forest areas among different income categories, and identifying countries with the highest forest areas in each region.
 ## Data Sources
 The following tables where imported and stored in a database called **Deforestation**
 1. **Forest Area Data**:  A table named forest area containing information about **_country_code_**, **_country_name_**, **_year and forest_area_sqkm_**
