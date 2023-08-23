@@ -1,4 +1,4 @@
-# Global Deforestation-Analysis
+# Global Deforestation Analysis
 ## Introduction
 This documentation outlines the steps and queries used to analyze deforestation data and country income groups using SQL. The project involves tasks such as determining the number of countries involved in deforestation, categorizing countries by income groups, comparing forest areas among different income categories, and identifying countries with the highest forest areas in each region.
 ## Data Sources
