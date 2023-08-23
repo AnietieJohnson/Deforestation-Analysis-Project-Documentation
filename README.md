@@ -7,3 +7,4 @@ The following tables where imported and stored in a database called **Deforestat
 2. **Land Area Data**: A table named Land area containing information about **_country_code_**,	**_country_name_**, **_year and total_area_sq_mi_**
 3. **Regions Data**: A table named Regions containing details about **_country_name_**,	**_country_code_**,	**_region_**,	**_income_group_**
 ### Task 1: Total Number of Countries Involved in Deforestation
+Query to find the total number of countries involved in deforestation:
