@@ -17,7 +17,9 @@ Query to identify countries with total area between 75,000 and 150,000 and their
 To answer this question effectively, I did a breakdown;
 - get "high income"  in income groupclass
 - get average of the above
-- get name of countries that have a forest area greater than the average above
+- get name of countries that have a forest area greater than the average above.
+
+-:- Note that this is a case of having a query with  double sub query, I wrote the subquery first following the steps I layed out above
 
 Query to retrieve countries with forest area greater than the average forest area of the "High Income" group:
 
