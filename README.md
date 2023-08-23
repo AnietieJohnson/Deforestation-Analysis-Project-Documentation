@@ -14,7 +14,7 @@ Query to find the total number of countries involved in deforestation:
 Query to identify countries with total area between 75,000 and 150,000 and their income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/solution%20to%20task%202.png)
 ### Task 3: Countries with Forest Area Greater Than Average High-Income Group
-To answer this question "Retrieve the names of countries that have a forest area (in square kilometers) greater than the average forest area of all countries in the _High Income_ income group"
+To answer this question "Retrieve the names of countries that have a forest area (in square kilometers) greater than the average forest area of all countries in the _'High Income'_ income group"
 effectively, I did a breakdown;
 - Get "high income"  in income group
 - Get average of the above
