@@ -30,7 +30,7 @@ compare the result with the rest of the income categories. In this case we are e
 Query to calculate the average total area for different income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20TASK%204%20(2).png)
 
-From the above query, the income group with the highest AVerage Total area is the unknown income group, followed by the upper income group.
+From the above query, the income group with the highest Average Total area is the unknown income group, followed by the upper middle income group.
 ### Task 5: Total Forest Area for Different Income Groups
 - I followed same procedure as in TASK 4
 - Joined the forest area table and region table
@@ -39,7 +39,7 @@ From the above query, the income group with the highest AVerage Total area is th
 Query to calculate the total forest area for different income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20TASK%205.png)
 
-From the above query, the income group with the highest Total forest area is the unknown income group, followed by the upper income group
+From the above query, the income group with the highest Total forest area is the unknown income group, followed by the upper middle income group
 ### Task 6: Countries with Highest Total Forest Area by Region/Continent
 To answer this question
 (6): "What are the countries from each region or continent having the highest total forest area?"
