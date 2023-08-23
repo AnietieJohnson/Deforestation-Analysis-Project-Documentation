@@ -38,7 +38,7 @@ Query to calculate the total forest area for different income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20TASK%205.png)
 ### Task 6: Countries with Highest Total Forest Area by Region/Continent
 To answer this question
-(6)- "What are the countries from each region or continent having the highest total forest area?"
+(6): "What are the countries from each region or continent having the highest total forest area?"
 - I wrote a subquery to join forest and regions table to get the neccesary column thats important to my solutiob
 - I went further to write a second query to rank each country by region using the total_forest_area_sqkm as reference(rank was in decending order showing the highest as rank 1)
 - Then I set the above as a table using CTE (common table expressions) and selected for countries that ranked top in each region
