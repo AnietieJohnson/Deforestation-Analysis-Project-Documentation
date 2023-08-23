@@ -66,8 +66,7 @@ Identifying the countries with the highest forest areas in each region highlight
 - The income group categorization might not encompass all nuances of economic disparities, and factors beyond income alone can influence deforestation rates.
 - The analysis doesn't take into account other potential variables that might influence deforestation, such as government policies, climate conditions, and cultural practices.
 ## Future Considerations
-- While this project provides a foundation for understanding deforestation and income group dynamics, future work could include:
-
+While this project provides a foundation for understanding deforestation and income group dynamics, future work could include:
 - Integration of additional datasets: Consider incorporating datasets related to climate change, economic factors, and policy measures to build a more comprehensive model.
 - Time series analysis: Explore deforestation trends over time to identify patterns, changes, and potential causal factors.
 - Predictive modeling: Utilize machine learning algorithms to predict future deforestation rates based on historical data and influencing factors.
