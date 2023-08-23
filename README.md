@@ -18,5 +18,7 @@ To answer this question effectively, I did a breakdown;
 - get "high income"  in income groupclass
 - get average of the above
 - get name of countries that have a forest area greater than the average above
+
 Query to retrieve countries with forest area greater than the average forest area of the "High Income" group:
+
 
