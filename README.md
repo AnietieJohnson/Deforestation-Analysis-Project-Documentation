@@ -54,13 +54,13 @@ Query to find countries with the highest forest area in each region:
 ## Conclusion
 In this project, I delved into the analysis of global deforestation patterns and their correlation with country income groups. By utilizing SQL queries on the provided datasets, I were able to gain valuable insights into the extent of deforestation, income-based categorization, and distribution of forest areas across regions. The project's findings shed light on important aspects of environmental and socioeconomic dynamics.
 ## Insights
-**Extent of Deforestation:**
+- **Extent of Deforestation:**
 By calculating the total number of countries involved in deforestation, we gained a basic understanding of the global scale of deforestation. This metric serves as a starting point for further investigations into specific regions or income groups.
-**Income Group Analysis:**
+- **Income Group Analysis:**
 The analysis of income groups in relation to forest area and deforestation showcased the diversity of trends. I found that some high-income countries exhibited forest area levels below average, hinting at varying conservation strategies or resource management practices.
-**Forest Area Comparisons:**
+- **Forest Area Comparisons:**
 Exploration of forest areas across different income groups offered a comprehensive view of their distribution. It's clear that countries' income levels play a role in their forest areas, but there are exceptions that underline the importance of targeted policies.
-**Regional Forest Area Leaders:**
+- **Regional Forest Area Leaders:**
 Identifying the countries with the highest forest areas in each region highlighted significant contributors to global forest cover. This information can aid conservation efforts and encourage collaboration among nations for sustainable forest management.
 ## Limitations
 - The analysis relies heavily on the accuracy and completeness of the provided datasets. Any inaccuracies or missing data points could impact the results.
