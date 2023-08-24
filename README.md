@@ -53,7 +53,8 @@ Query to find countries with the highest forest area in each region:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/solution%20to%20task%206.png)
 
 ## Conclusion
-In this project, I delved into the analysis of global deforestation patterns and their correlation with country income groups. By utilizing SQL queries on the provided datasets, I were able to gain valuable insights into the extent of deforestation, income-based categorization, and distribution of forest areas across regions. The project's findings shed light on important aspects of environmental and socioeconomic dynamics.
+In this project, I delved into the analysis of global deforestation patterns and their correlation with country income groups. By utilizing SQL queries on the provided datasets, I was able to gain valuable insights into the extent of deforestation, income-based categorization, and distribution of forest areas across regions. The project's findings shed light on important aspects of environmental and socioeconomic dynamics. This project serves as a stepping stone for further research and actions to mitigate deforestation and promote sustainable land use practices worldwide.
+
 ## Insights
 - **Extent of Deforestation:**
 By calculating the total number of countries involved in deforestation, we gained a basic understanding of the global scale of deforestation. This metric serves as a starting point for further investigations into specific regions or income groups.
@@ -69,6 +70,5 @@ Identifying the countries with the highest forest areas in each region highlight
 - The analysis doesn't take into account other potential variables that might influence deforestation, such as government policies, climate conditions, and cultural practices since analysis was done based on data provided.
 ## Future Considerations
 While this project provides a foundation for understanding deforestation and income group dynamics, future work could include:
-- Integration of additional datasets: Consider incorporating datasets related to climate change, economic factors, and policy measures to build a more comprehensive model.
+- Integration of additional datasets: Consider incorporating datasets related to climate change and economic factors
 - Time series analysis: Explore deforestation trends over time to identify patterns, changes, and potential causal factors.
-- This project serves as a stepping stone for further research and actions to mitigate deforestation and promote sustainable land use practices worldwide.
