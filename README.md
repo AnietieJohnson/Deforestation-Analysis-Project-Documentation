@@ -27,7 +27,7 @@ Query to retrieve countries with forest area greater than the average forest are
 ### Task 4: Average Total Area for Different Income Groups
 Calculate the average total area (in square miles) for countries in the "Upper Middle Income" income group? 
 compare the result with the rest of the income categories.
-- In this case we are expected to make comparism with our resultS, so I wrote a subquery that allows me to see all the income group by joining Land area table and Region Table, then I queried the subquery(seeing it as a table) to give the the average total of the different groups by using the aggregate function **AVERAGE**
+- In this case comparism of individual results for average of area is expected, so I wrote a subquery that allows me to see all the income group by joining Land area table and Region table, then I queried the subquery(seeing it as a table) to give the the average total of the different groups by using the aggregate function **AVERAGE**
 
 Query to calculate the average total area for different income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20TASK%204%20(2).png)
