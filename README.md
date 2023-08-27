@@ -8,8 +8,12 @@ The following tables where imported and stored in a database called **Deforestat
 3. **Regions Data**: A table named Regions containing details about **_country_name_**,	**_country_code_**,	**_region_**,	**_income_group_**
 ## Questions And Solutions to Project Task
 ### Task 1: Total Number of Countries Involved in Deforestation
+- Deforestation occurred in different years
+- Some countries were involved in deforestion in different years
+- Hence they appear as duplicate in the **_country_name_** column
+- To find actual number of countries involved, the count of distinct countries are expected.
 Query to find the total number of countries involved in deforestation:
-![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/task%20one%20solution.png)
+![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20QUESTION%20ONE.png)
 ### Task 2: Income Groups of Countries with Specific Total Area Range
 Query to identify countries with total area between 75,000 and 150,000 and their income groups:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/solution%20to%20task%202.png)
