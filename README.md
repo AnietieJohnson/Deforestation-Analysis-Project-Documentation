@@ -11,7 +11,7 @@ The following tables where imported and stored in a database called **Deforestat
 - Deforestation occurred in different years
 - Some countries were involved in deforestion in different years
 - Hence they appear as duplicate in the **_country_name_** column
-- To find actual number of countries involved, the count of distinct countries are expected.
+- To find actual number of countries involved, the count of distinct countries is expected.
 Query to find the total number of countries involved in deforestation:
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20QUESTION%20ONE.png)
 ### Task 2: Income Groups of Countries with Specific Total Area Range
