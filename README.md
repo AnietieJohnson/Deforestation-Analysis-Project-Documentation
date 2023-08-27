@@ -14,6 +14,7 @@ The following tables where imported and stored in a database called **Deforestat
 - To find actual number of countries involved, the count of distinct countries is expected.
 
 Query to find the total number of countries involved in deforestation:
+
 ![](https://github.com/AnietieJohnson/Deforestation-Analysis-Project-Documentation/blob/main/SOLUTION%20TO%20QUESTION%20ONE.png)
 ### Task 2: Income Groups of Countries with Specific Total Area Range
 Query to identify countries with total area between 75,000 and 150,000 and their income groups:
